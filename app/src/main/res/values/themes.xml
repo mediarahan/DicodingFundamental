@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FinalFundamentalsSubmission" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#2559BD</item>
+        <item name="colorOnPrimary">#2559BD</item>
+        <item name="colorPrimaryContainer">#DAE2FF</item>
+        <item name="colorOnPrimaryContainer">#001946</item>
+    </style>
+
+    <style name="Theme.FinalFundamentalsSubmission" parent="Base.Theme.FinalFundamentalsSubmission" />
+</resources>
