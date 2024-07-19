@@ -4,7 +4,7 @@
 This project was submitted as the requirement for passing the course [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14-belajar-fundamental-aplikasi-android) on Dicoding.
 
 ## Features
-This app allows users to brows a list of real Github users using the Github API and few additional features, such as:
+This app allows users to browse a list of real Github users using the Github API and few additional features, such as:
 - Browsing user profiles along with their followers and following counts.
 - A search bar for quick access to specific user profiles.
 - Toggleable Dark and Light themes for personalized viewing preferences.
