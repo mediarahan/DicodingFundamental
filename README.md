@@ -21,7 +21,7 @@ In addition to the techniques shown in the prerequisite course's [submission](ht
   - Room and its components for persistent local storage. These include DAO (Data Access Object), Entity, and Database
   - ViewModel for separation between UI and data layer, which is often used to handle logic before exposing the value to the UI layer
   - DataStore for storing simple key-value pairs, such as App Theme toggle or other app settings / preferences
-- Design patterns such as the Repository pattern that is used to centralize API call and database query logic and Factory pattern to create ViewModel instances
+- Design patterns such as the Repository pattern that is used to centralize API call and database query logic, and Factory pattern to create ViewModel instances
 
 ## Built With
 - **[Kotlin](https://kotlinlang.org/)** - The primary programming language for modern Android development.
