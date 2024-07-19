@@ -16,6 +16,7 @@ In addition to the techniques shown in the prerequisite course's [submission](ht
 - How to implement a SearchView and SearchBar with option menu
 - How to consume API and perform calls using Retrofit to the Github API
 - The MVVM app architecture
+- Manual dependency injection
 - Android Jetpack components, such as:
   - LiveData, which is used to ensure reactive UI updates when change is detected in the observed object
   - Room and its components for persistent local storage. These include DAO (Data Access Object), Entity, and Database
