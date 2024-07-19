@@ -32,9 +32,9 @@ Click [here](https://drive.google.com/file/d/1P4MSWzerwf2tT-DIMgVkUTOhEP9KNeCg/v
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/409ad156-6907-4aba-b69d-af6d9790d8a6" alt="fundamental1" width="200"/>
-  <img src="https://github.com/user-attachments/assets/29076e80-7dc8-48b2-8cfb-cf0c938ade98" alt="fundamental2" width="200"/>
-  <img src="https://github.com/user-attachments/assets/e892594e-e483-4378-806b-d879a7298036" alt="fundamental3" width="200"/>
-  <img src="https://github.com/user-attachments/assets/48de59b7-7264-4a2d-8b4a-8d5f8d166f27" alt="fundamental4" width="200"/>
-  <img src="https://github.com/user-attachments/assets/88c7a5ea-58d6-4355-9de8-04c7566cdee1" alt="fundamental5" width="200"/>
+  <img src="https://github.com/user-attachments/assets/409ad156-6907-4aba-b69d-af6d9790d8a6" alt="fundamental1" width="250"/>
+  <img src="https://github.com/user-attachments/assets/29076e80-7dc8-48b2-8cfb-cf0c938ade98" alt="fundamental2" width="250"/>
+  <img src="https://github.com/user-attachments/assets/e892594e-e483-4378-806b-d879a7298036" alt="fundamental3" width="250"/>
+  <img src="https://github.com/user-attachments/assets/48de59b7-7264-4a2d-8b4a-8d5f8d166f27" alt="fundamental4" width="250"/>
+  <img src="https://github.com/user-attachments/assets/88c7a5ea-58d6-4355-9de8-04c7566cdee1" alt="fundamental5" width="250"/>
 </p>
