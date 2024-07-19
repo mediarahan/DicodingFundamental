@@ -1,4 +1,4 @@
-# Golden Sun Djinn List App
+# GitHub User List App
 
 ## Description
 This project was submitted as the requirement for passing the course [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14-belajar-fundamental-aplikasi-android) on Dicoding.
